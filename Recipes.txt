@@ -5,10 +5,13 @@ Welcome to MyKitchen
 Kheer
 Pasta
 Chiken Fry
-
-
+Beans
+Pizza
 
 thank you
 
 
+Done my changes
+
 Final Copy
+
